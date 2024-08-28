@@ -1,0 +1,19 @@
+1. give a name to the website, 
+other than ultra active and set a icon, 
+style as per your likings✅
+2. create min 6 fake data.. 
+4 must info-1. pic 2. activity name 3. time required
+ 4. add to list✅
+3. click add to list and set it to the exercise details✅
+4. user_information✅
+5. add a break part✅
+6. little responsive..card part and the selected activity part✅
+
+Bonus:
+
+1. Set the selected break time to local storeage✅
+2. load the break time to break time✅
+3. folder structure, keys,props destructuring, 10 commits✅
+4. activity completed toast✅
+5. 3 question's ans- 1. how does react work in 4-5 line. 2. props vs states 3. useEffect usecase other 
+than data load✅

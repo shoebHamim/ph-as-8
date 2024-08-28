@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+#title{
+  color: #EB455F;
+  margin-bottom: 1rem ;
+}
+#select-session{
+  margin-bottom:1rem ;
+}
+.App{
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 5fr 1.8fr;
+  background-color: #f2f4fa;
+}
+.left,.qa{
+  margin: 4% 10% 0 13%;
+
+}
+.qa{
+  margin-bottom: 5rem;
+}
+@media screen and (max-width: 550px) {
+  .App{
+    grid-template-columns: 1fr;
+  }
+  .sidebar{
+    
+
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id":1,
+    "name":"Get Started",
+    "duration":15,
+    "level":"easy",
+    "added":false,
+    "img":"https://i.ibb.co/Xsrxgzz/getstarted.webp"
+  },
+  {
+    "id":2,
+    "name":"Pomodoro",
+    "duration":25,
+    "level":"easy",
+    "added":false,
+    "img":"https://i.ibb.co/R26xJsy/pomodoro.png"
+  },
+  {
+    "id":3,
+    "name":"No Distraction",
+    "duration":35,
+    "level":"medium",
+    "added":false,
+    "img":"https://i.ibb.co/72YtkQz/nodistraction.jpg"
+  },
+  {
+    "id":4,
+    "name":"Group Work",
+    "duration":40,
+    "level":"medium",
+    "added":false,
+    "img":"https://i.ibb.co/prZxK5h/group.png"
+  },
+  {
+    "id":5,
+    "name":"Think Deep",
+    "duration":45,
+    "level":"hard",
+    "added":false,
+    "img":"https://i.ibb.co/dtHY9T6/thinkdeep.jpg"
+  },
+  {
+    "id":6,
+    "name":"Project",
+    "duration":60,
+    "level":"hard",
+    "added":false,
+    "img":"https://i.ibb.co/0FBCnfT/project.jpg"
+  }
+]
